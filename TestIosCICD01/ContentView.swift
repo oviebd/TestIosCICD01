@@ -13,7 +13,8 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Button{
-                Crashes.generateTestCrash()
+                
+                //Crashes.generateTestCrash()
             }label: {
                 Text("Click Me")
             }
