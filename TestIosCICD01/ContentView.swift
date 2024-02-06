@@ -18,6 +18,8 @@ struct ContentView: View {
             }label: {
                 Text("Click Me")
             }
+            
+            Text("Add Text in feature 01")
         }
         .padding()
     }
