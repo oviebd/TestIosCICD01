@@ -20,6 +20,8 @@ struct ContentView: View {
             }
             
             Text("Add Text in feature 01")
+            
+            Text("Add Text in feature 02")
         }
         .padding()
     }
